@@ -1,7 +1,7 @@
 ﻿/********************
  * Joshua Romito   
  * Septemeber 19th 2017
- * Lab_02
+ * CP_330 - Lab_02
  *********************/
 using System;
 using System.Collections.Generic;

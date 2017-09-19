@@ -1,7 +1,7 @@
 ﻿/********************
  * Joshua Romito   
  * Septemeber 19th 2017
- * Lab_02
+ * CP_330 - Lab_02
  *********************/
 using System;
 using System.Collections.Generic;
@@ -24,7 +24,7 @@ namespace Lab_02
             //if our amount is less than or equal to the upper limit
             if (amount <= _upperLimit)
             {
-                Console.WriteLine("The amount " + amount + " is okayed by " + _name + " (" + _classification + ")");
+                Console.WriteLine("The amount " + amount + " is okayed by " + _name + " (" + _classification + ").");
             }
             else   // if amount is greater than 
             {
